@@ -22,3 +22,22 @@ In the model implementation phase, multiple machine learning algorithms were tra
 This task has strong real-world applicability in areas such as customer feedback analysis, social media monitoring, brand reputation management, and recommendation systems. Companies use sentiment analysis to understand user opinions, improve products, and make data-driven decisions. By completing this task, a complete end-to-end NLP pipeline was demonstrated, including preprocessing, feature extraction, model implementation, evaluation, and insight generation, making it a comprehensive and valuable project.
 
 *OUTPUTS*:
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/8ba27929-0bcd-479c-aba9-298f81e54611" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/050c34ae-8aaf-4283-9638-7d88182e8ff0" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/201f48f7-9c3e-474f-9aec-8b36dff324fd" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/f3ff1fe5-915a-4ea1-967b-6ca2193e3a05" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/ef167471-88bc-4a33-be2f-8d9b6d22abc2" />
+
+<img width="2534" height="753" alt="Image" src="https://github.com/user-attachments/assets/0a62628e-46ff-43b2-baba-c42524bf7444" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/d991354f-9329-4f92-9c23-81f1b4b1d3df" />
+
+<img width="2559" height="1005" alt="Image" src="https://github.com/user-attachments/assets/79bb53ab-e799-4f4b-89e1-95f0d08c3ab6" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/c561cbe9-536d-4a0c-81db-1b500b5b779f" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/61e7ad07-8da7-4ceb-88b1-36344136dae9" />
